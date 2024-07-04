@@ -1,0 +1,1 @@
+export const LOCAL_USER : string = "LOCAL_USER"
