@@ -2,7 +2,7 @@
     {
         "id":0,
         "name":"Admin_BB",
-        "username":"admin01",
+        "username":"admin",
         "password":"1111",
         "status":0,
         "country": "ประเทศไทย",
@@ -10,7 +10,7 @@
     },{
         "id":1,
         "name":"wizxiw",
-        "username":"wiThai",
+        "username":"wi",
         "password":"1234",
         "status": 1,
         "country": "ประเทศไทย",
